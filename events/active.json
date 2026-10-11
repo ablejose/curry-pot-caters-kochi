@@ -1,0 +1,55 @@
+{
+  "slug": "curry-pot-caters-kochi",
+  "name": "Curry Pot Caters",
+  "shortName": "Curry Pot",
+  "descriptor": "Catering Services",
+  "address": "LFC Rd, Kaloor, Kochi, Keralam 682017",
+  "area": "Kaloor",
+  "city": "Kochi",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "682017",
+  "geo": {
+    "lat": 10.002428900000002,
+    "lng": 76.2898645
+  },
+  "mapsLink": "https://maps.google.com/?cid=14590883592221925447",
+  "phone": "+91 85890 77818",
+  "whatsapp": "918589077818",
+  "rating": 4.6,
+  "reviewCount": 38,
+  "reviews": [
+    {
+      "name": "Awin Stephen",
+      "rating": 5,
+      "quote": "We order regularly from here for functions at home. Always freshly cooked and tasty food that's praised by guests."
+    },
+    {
+      "name": "Johnson C.J",
+      "rating": 5,
+      "quote": "A very good non vegetarian caterer serving tasty food. Vegetarian also served. Reasonable rates. Can be considered for functions like wedding reception. Service available for small functions too. Dependable team. Home delivery available."
+    },
+    {
+      "name": "Aswathy suresh",
+      "rating": 5,
+      "quote": "For all those end of the month days when you are broke and gotta eat a biriyani this is the place. They only serve biriyani and for one biriyani its 100rs but just because its 100 dont take it the wrong way.. its a decent and good biriyani at that rate. Except for the ambience(its darn hot there), I suggest taking parcel."
+    },
+    {
+      "name": "Sam Jose",
+      "rating": 4,
+      "quote": "Good place to get a quick bite and order for small house functions . They take larger catering orders also . Good food ."
+    },
+    {
+      "name": "Andrea Luiz",
+      "rating": 5,
+      "quote": "They provide sumptuous food with affordable rates without compromising the taste. They also take small orders like office or house parties."
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp"
+  ],
+  "url": "https://curry-pot-caters-kochi.vercel.app"
+}
